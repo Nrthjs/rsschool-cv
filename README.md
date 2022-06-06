@@ -1,1 +1,1 @@
-# rsschool-cv
+https://nrthjs.github.io/rsschool-cv/cv
