@@ -13,3 +13,6 @@ E-mail: foxkitsune@icloud.com
 
 Discord: Джимми
 ****
+function multiply(a, b){
+  return a * b
+}
