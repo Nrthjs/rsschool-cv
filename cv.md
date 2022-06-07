@@ -17,6 +17,19 @@ Hello! At first I would like to thank you for this great opportunity, because la
 
 I would like to refresh my knowledges and I hope, we will meet on the next course!
 
+##### Skills
+
+* Javascript
+* HTML
+* CSS
+* Git
+
+###### Courses
+* Web development in IT Park
+
+###### English level
+* B2
+
 ****
 ##### This is my code from Codewars
 ```
