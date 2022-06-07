@@ -12,9 +12,10 @@ E-mail: foxkitsune@icloud.com
 
 
 Discord: Джимми
-====
+***
 
 
+```
 function multiply(a, b){
 
 
@@ -22,3 +23,4 @@ function multiply(a, b){
   
   
 }
+```
